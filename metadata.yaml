@@ -1,0 +1,30 @@
+_repo: Talks-to-Freshman-Girls_37299
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Helen Dawes
+    birthdate: 1857
+    deathdate: 1941
+    gutenberg_agent_id: '38757'
+    url: http://www.gutenberg.org/2009/agents/38757
+description: ''
+gutenberg_issued: '2011-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37299'
+  lccn: '14017213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LC'
+- !lcsh 'Women -- Education'
+- !lcsh 'Young women'
+tableOfContents: '"Studies serve for delight, for ornament, and for ability" -- Real
+  readers -- The use of the pen -- Everyday living.'
+title: Talks to Freshman Girls
+url: http://www.gutenberg.org/ebooks/37299
